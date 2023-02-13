@@ -24,7 +24,7 @@ Lower Camel Case:firstName, lastName
 // cgpa = 3.92;
 // lineBreak = "<br/>";
 
-var name = "Anisul Islam";
+var name = "Nur Alam";
 var age = 29;
 var cgpa = 3.92;
 var lineBreak = "<br/>";
